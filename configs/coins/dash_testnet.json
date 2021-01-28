@@ -22,7 +22,7 @@
     "package_name": "backend-dash-testnet",
     "package_revision": "satoshilabs-1",
     "system_user": "dash",
-    "version": "0.16.0.1",
+    "version": "0.17.0.0",
     "binary_url": "https://github.com/dashpay/dash/releases/download/v0.17.0.0-rc2/dashcore-0.17.0.0-rc2-x86_64-linux-gnu.tar.gz",
     "verification_type": "gpg-sha256",
     "verification_source": "https://github.com/dashpay/dash/releases/download/v0.17.0.0-rc2/dashcore-0.17.0.0-rc2-x86_64-linux-gnu.tar.gz.asc",
