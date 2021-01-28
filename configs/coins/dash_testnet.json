@@ -52,7 +52,7 @@
     "additional_params": "",
     "block_chain": {
       "parse": true,
-      "subversion": "/Dash Core:0.14.0.5/",
+      "subversion": "/Dash Core:0.17.0/",
       "mempool_workers": 8,
       "mempool_sub_workers": 2,
       "block_addresses_to_keep": 300,
